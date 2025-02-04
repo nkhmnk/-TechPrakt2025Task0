@@ -23,6 +23,6 @@
 - [x] git remote add
 - [x] git push
 - [x] git pull
-- [ ] it branch
+- [ ] git branch
 
 Виконала: ***Хоменко Надія***
